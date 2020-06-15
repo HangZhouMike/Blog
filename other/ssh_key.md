@@ -4,3 +4,5 @@
   * `ssh-keygen -t rsa -C "your_email@example.com"`
   * `id_rsa` 私钥文件
   * `id_rsa.pub` 公钥文件
+* 公钥内容上传到git 仓库
+* 上传登录，git 账号名和密码
